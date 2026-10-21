@@ -1,0 +1,14 @@
+# Core notebook environment
+jupyter
+ipykernel
+
+# Data analysis
+pandas
+numpy
+
+# Data visualization
+matplotlib
+seaborn
+
+# Machine learning (keep only if imported by the project notebooks)
+scikit-learn
